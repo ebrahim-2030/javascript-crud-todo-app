@@ -1,0 +1,18 @@
+/* Reset base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General body styles */
+body {
+  background: linear-gradient(145deg, #2d9a6b, #34d399, #56c98c, #00b894);
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 60px;
+  min-height: 100vh;
+  color: #f1f1f1;
+}
