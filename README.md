@@ -1,7 +1,9 @@
 
-# Task Manager App
+# Todo App
 
-**`js-crud-todo-app`** is a simple and interactive to-do application built with vanilla JavaScript. It allows users to manage their tasks by performing basic CRUD (Create, Read, Update, and Delete) operations. The app offers a seamless experience to add, edit, and delete tasks from a to-do list.
+js-crud-todo-app is a simple and interactive to-do application built with vanilla JavaScript. It allows users to manage their tasks by performing basic CRUD (Create, Read, Update, and Delete) operations. The app offers a seamless experience to add, edit, and delete tasks from a to-do list.
+
+Additionally, the app uses localStorage to persist data across page reloads, ensuring that the user's to-do list remains saved even when they return to the app later.
 
 ## Live Demo:
 Check out the live demo of the app [here](https://js-crud-todo-app.vercel.app/).
