@@ -24,7 +24,16 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    
+    <div class="container">
+      <h1>Todo List <i class="fas fa-list-check"></i></h1>
+      <!-- Input for new todos -->
+      <div class="input-group">
+        <input type="text" id="todoInput" placeholder="Add new todo" />
+        <button id="add-btn" onclick="addTodo()">Add</button>
+      </div>
+      <!-- List of todos -->
+      <ul id="todoList"></ul>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
