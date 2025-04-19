@@ -25,4 +25,4 @@ Check out the live demo of the app [here](https://js-crud-todo-app.vercel.app/).
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ebrahim-2030/js-crud-todo-app.git
+   git clone https://github.com/ebrahim-2030/javascript-crud-todo-app.git
